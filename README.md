@@ -19,7 +19,7 @@ DocuLens is an advanced document verification and extraction platform designed t
 
 2. Install the required dependencies:
     ```bash
-    pip install -r requirements.txt
+    npm install in both the folders
     ```
 
 3. Set up any necessary environment variables for AI models or third-party APIs, such as API keys or model paths.
